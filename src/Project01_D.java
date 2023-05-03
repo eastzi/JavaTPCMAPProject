@@ -15,8 +15,8 @@ public class Project01_D {
 		
 		//naver open api 주소 가져오기
 		String apiURL = "https://naveropenapi.apigw.ntruss.com/map-geocode/v2/geocode";
-		String client_id="";
-		String client_secret="";
+		String client_id="p8ftbepm6x";
+		String client_secret="0dJf14OVpE7JV8LKt93xRx8Det519aub0TEXveAt";
 		
 		BufferedReader io = new BufferedReader(new InputStreamReader(System.in));
 		
